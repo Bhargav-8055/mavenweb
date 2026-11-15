@@ -11,6 +11,7 @@
 
   <name>MavenWeb Maven Webapp</name>
   <!-- FIXME change it to the project's website -->
+  <!-- Testing webhook by writing this line-->
   <url>http://www.example.com</url>
 
   <properties>
